@@ -1,13 +1,13 @@
-# About the Discover Canada Places App
+# About Places to visit in Canada App
 
 ## Description
 
-The Discover Canada Places App is an intuitive web application for exploring, creating, editing, and managing a list of must-visit destinations in Canada. The app is designed for travelers, adventurers, and those who love discovering new places.
+The Places to visit in Canada App is an intuitive web application for exploring, creating, editing, and managing a list of must-visit destinations in Canada. The app is designed for travelers, adventurers, and those who love discovering new places.
 
 ## Key Features
 
 - **Explore Top Destinations**: Browse through a curated list of fascinating places to visit across Canada.
-- **Create New Places**: Add your own favorite destinations with details like name, province, description, and images..
+- **Create New Places**: Add your own favorite destinations with details like name, province, description, and images.
 - **Edit Place Details**: Update existing place information effortlessly to keep details current.
 - **Mark as Visited**: Keep track of your journey by marking places as visited without deleting them.
 
@@ -35,7 +35,6 @@ The Discover Canada Places App is an intuitive web application for exploring, cr
 
 - **Marking Places as Visited**:
 Click the "Mark as Visited" button on a place card to log it as visited.
-Marked places remain in the database for reference and can be unmarked later if needed.
 
 # Additional Features
 - **Persistent Data Storage**:
@@ -49,12 +48,9 @@ The app is optimized for use on both desktop and mobile devices.
 Olga: gos08.08.23@gmail.com
 
 Project link: \
-https://github.com/gos0808/farm-app \
-https://place-to-visit.netlify.app/
-
-# Link to the project
-
-https://main--place-to-visit.netlify.app/
+https://github.com/gos0808/Places-to-visit-backend_2 \
+https://github.com/gos0808/Places-to-visit-frontend \
+https://places-to-visit-fullstack.netlify.app/
 
 # Getting Started with Create React App
 
